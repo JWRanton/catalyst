@@ -1,0 +1,21 @@
+{
+  "name": "catalyst",
+  "version": "0.0.1",
+  "description": "Design system for FMH",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JWRanton/catalyst.git"
+  },
+  "author": "@jwranton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JWRanton/catalyst/issues"
+  },
+  "homepage": "https://github.com/JWRanton/catalyst#readme"
+}
